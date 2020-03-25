@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="name">Name:</string>
+    <string name="currName">Default value</string>
+    <string name="newName">New Name:</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="edittext_field">Enter name</string>
+</resources>
